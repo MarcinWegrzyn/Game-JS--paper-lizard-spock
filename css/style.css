@@ -1,0 +1,19 @@
+body {
+  background-color: #98bdf9;
+}
+
+.container {
+  padding: 10px 10px;
+}
+#winner {
+  text-align: center;
+  font-size: 50px;
+  display: none;
+}
+.btn {
+  width: 100px;
+}
+
+
+
+
